@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Abril Fatface;
+	src: url(https://fonts.google.com);
+}
+
+
+.head-name {
+    font-size: 4em;
+    color: rgb(231, 198, 153);
+    text-align: center;
+    font-family: Abril Fatface;
+}
